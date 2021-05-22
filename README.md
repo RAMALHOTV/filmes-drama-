@@ -1,33 +1,27 @@
 #EXTM3U
- 
-#PLAYLISTV: pltv-logo="http://s28.postimg.org/66yw0liml/21312sasdas.png" pltv-name="DIRCEU IPTV " pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://s30.postimg.org/4w34lok2p/canal_DIRCEU_IPTV.jpg" pltv-author="DIRCEU IPTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 998656144"
- 
+
+#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
+
 ################################################################################# Informações da Lista
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/i1p1srlvt/Official_site.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",downloadsdefimes.blogspot.com
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
- 
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/our9cxj1p/youtube.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",youtube.com/matamataxiterbr
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
- 
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/l4n16aht9/refresh.png" group-title="Informações da Lista",Atualizado: 13/01/2018
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado: 20/05/2021
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
- 
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/rwdg956st/user.png" group-title="Informações da Lista",By DIRCEU IPTV 
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
- 
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/tcoyra9pp/info.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
- 
- 
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/p4u6ij8a5/zap.png" group-title="Informações da Lista",(44) 998656144
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-#EXTINF:-1 tvg-logo="http://i.imgur.com/K00diOJ.jpg" group-title="Informações da Lista",ENTERESADOS ENTRE EM CONTATO 
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
  
 #########################################FILMES HD ######################################
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NJbFNag.jpg" group-title="FILMES HD",dub/leg
